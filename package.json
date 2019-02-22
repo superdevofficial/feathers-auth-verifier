@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Romain GUILLAUME",
+    "email": "r.guillaume@superdev.fr",
+    "url": "https://superdev.fe"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "dependencies": {
+    "debug": "^4.0.0",
+    "bcryptjs": "^2.3.0",
+    "lodash": "^4.17.5"
+  },
+  "deprecated": false,
+  "description": "Customs verifiers for feathers authentication strategy using Passport",
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "homepage": "https://superdev.fr",
+  "keywords": [
+    "feathers",
+    "feathers-plugin"
+  ],
+  "license": "MIT",
+  "main": "lib/",
+  "name": "@superdevofficial/feathers-auth-verifier",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superdevofficial/feathers-auth-verifier.git"
+  },
+  "version": "1.0.0"
+}
