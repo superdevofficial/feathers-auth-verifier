@@ -28,13 +28,13 @@
   ],
   "license": "MIT",
   "main": "lib/",
-  "name": "@superdevofficial/feathers-auth-verifier",
+  "name": "@superdev-official/feathers-auth-verifier",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/superdevofficial/feathers-auth-verifier.git"
+    "url": "https://github.com/superdev-official/feathers-auth-verifier.git"
   },
   "version": "1.0.0"
 }

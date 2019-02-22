@@ -1,4 +1,4 @@
-# @superdevofficial/feathers-auth-verifier
+# @superdev-official/feathers-auth-verifier
 
 
 > Customs verifiers for feathers authentication strategy using Passport
@@ -6,7 +6,7 @@
 ## Installation
 
 ```
-npm install @superdevofficial/feathers-verifier --save
+npm install @superdev-official/feathers-verifier --save
 ```
 
 ## Quick example
@@ -18,7 +18,7 @@ const jwt = require('@feathersjs/authentication-jwt');
 const local = require('@feathersjs/authentication-local');
 const oauth2 = require('@feathersjs/authentication-oauth2');
 const Auth0Strategy = require('passport-auth0');
-const customVerifier = require('@superdevofficial/feathers-auth-verifier');
+const customVerifier = require('@superdev-official/feathers-auth-verifier');
 const app = feathers();
 
 // Setup authentication
